@@ -1,0 +1,6 @@
+[submodule "lxp32-cpu"]
+	path = lxp32-cpu
+	url = https://github.com/lxp32/lxp32-cpu.git
+[submodule "light52"]
+	path = light52
+	url = https://github.com/jaruiz/light52.git

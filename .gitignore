@@ -1,20 +1,11 @@
-.lib
 .vscode
 
-run
-work
-cache
-output
-alib-52
-*.svf
-*.log
-*.rpt
-*.ddc
+run/
+work/
+cache/
+output/
 
 csrc
 simv*
 ucli.key
 
-# Projects
-lxp32-cpu-develop
-light52-master
