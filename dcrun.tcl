@@ -1,6 +1,6 @@
 set_app_var sh_continue_on_error false
 if {![info exists D]} {
-  echo "Usage: dc_shell -f dc_run.tcl -x 'set D top'"
+  echo "Usage: dc_shell -f dcrun.tcl -x 'set D top'"
   exit
 }
 set CURRENT_DESIGN $D
