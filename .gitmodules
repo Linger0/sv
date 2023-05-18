@@ -4,3 +4,9 @@
 [submodule "light52"]
 	path = light52
 	url = https://github.com/jaruiz/light52.git
+[submodule "verilog-axi"]
+	path = verilog-axi
+	url = https://github.com/alexforencich/verilog-axi.git
+[submodule "axi"]
+	path = axi
+	url = https://github.com/pulp-platform/axi.git
